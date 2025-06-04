@@ -1,6 +1,2 @@
 pandas
 pyyaml
-fastapi
-uvicorn
-pyyaml
-pydantic
